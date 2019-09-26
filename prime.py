@@ -1,3 +1,7 @@
+#python program to calculate :
+#all factors of n , to check is n is prime
+#To find primes upto n
+
 def factors(n):
     factorlist=[]
     for i in range(1,n+1):
