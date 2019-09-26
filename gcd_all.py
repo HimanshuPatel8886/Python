@@ -1,4 +1,4 @@
-# Python code to compute gcd
+# Diffrent python code to compute gcd
 
 def gcd_list(x, y):
 	cf = []
